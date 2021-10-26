@@ -1,0 +1,821 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-23T01:48:17.100Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2934742100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Check Deals of the Day button opens up Savings page",
+        "description": "",
+        "id": "test-deals-of-the-day-functionalities;check-deals-of-the-day-button-opens-up-savings-page",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5941994100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "a user on Home page for Deals of the day",
+            "match": {
+              "location": "step_definitions.Deals_Of_The_Day.NavigateToTheHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 15715709400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "User click on Deals of the Day button",
+            "match": {
+              "location": "step_definitions.Deals_Of_The_Day.ClickDealsOfTheDay()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1375536400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is navigated to the Deals of the Day page",
+            "match": {
+              "location": "step_definitions.Deals_Of_The_Day.NavigateToDealsOfTheDay()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Deals of the Day Functionalities",
+    "description": "",
+    "id": "test-deals-of-the-day-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Deals_of_the_Day.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-23T01:48:43.204Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1342845500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Check Gift Cards button opens up Gift Cards page",
+        "description": "",
+        "id": "test-gift-cards-functionalities;check-gift-cards-button-opens-up-gift-cards-page",
+        "after": [
+          {
+            "result": {
+              "duration": 1011900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4137744300,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "a user on the Home page for Gift Zone Features",
+            "match": {
+              "location": "step_definitions.Gift_Zone.NavigateToHomePageForGiftZone()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8659958800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user click on Gift Zone button",
+            "match": {
+              "location": "step_definitions.Gift_Zone.LookForGiftZoneButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1120056800,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is navigated to the Gift Idea page",
+            "match": {
+              "location": "step_definitions.Gift_Zone.NavigateToGiftZonePage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Gift Cards Functionalities",
+    "description": "",
+    "id": "test-gift-cards-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Gift_Zone.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-23T01:48:58.499Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1433468900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Check Hand Tools button opens up Hand Tools page",
+        "description": "",
+        "id": "test-hand-tools-functionalities;check-hand-tools-button-opens-up-hand-tools-page",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4074722600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "a user on the Home page for Hand Tools",
+            "match": {
+              "location": "step_definitions.Hand_Tools.NavigatedToTheHomePageForHandTools()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12658126300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "click on Tools Button",
+            "match": {
+              "location": "step_definitions.Hand_Tools.ClickOnToolsButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 14108464400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on Hand Tools Button",
+            "match": {
+              "location": "step_definitions.Hand_Tools.ClickOnHandToolsButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1230152000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user is navigated to the Hand Tools page",
+            "match": {
+              "location": "step_definitions.Hand_Tools.NavigatedToTheHandToolsPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Hand Tools Functionalities",
+    "description": "",
+    "id": "test-hand-tools-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Hand_Tools.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-23T01:49:32.025Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2238017400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Check Installation Services opens up Holiday Decorations page",
+        "description": "",
+        "id": "test-holiday-decorations-functionalities;check-installation-services-opens-up-holiday-decorations-page",
+        "after": [
+          {
+            "result": {
+              "duration": 1000300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5613160100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "a user on the Home page for Holiday Decorations",
+            "match": {
+              "location": "step_definitions.Holiday_Decorations.NavigateToHomePageForHolidayDecorations()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 12336311500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user click on Holiday Decorations button",
+            "match": {
+              "location": "step_definitions.Holiday_Decorations.ClickOnHolidayDecorationsButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1120070400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is Navigated to the Holiday Decorations page",
+            "match": {
+              "location": "step_definitions.Holiday_Decorations.NavigateToHolidayDecorationsPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Holiday Decorations Functionalities",
+    "description": "",
+    "id": "test-holiday-decorations-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Holiday_Decorations.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-23T01:49:53.361Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1373677300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Check Lowes Credit Card button opens up Lowes Credit Card page",
+        "description": "",
+        "id": "test-lowes-credit-card-functionalities;check-lowes-credit-card-button-opens-up-lowes-credit-card-page",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5398809600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "a user on the Lowes Home page for Credit Card Feature",
+            "match": {
+              "location": "step_definitions.Lowes_Credit_Card.NavigateToHomePageForCreditCardFeature()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9239709600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user click on Lowes Credit Card button",
+            "match": {
+              "location": "step_definitions.Lowes_Credit_Card.ClickOnLowesCreditCardButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1110310400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is navigated to the Lowes Credit Card page",
+            "match": {
+              "location": "step_definitions.Lowes_Credit_Card.NavigatedToTheLowesCreditCardPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Lowes Credit Card Functionalities",
+    "description": "",
+    "id": "test-lowes-credit-card-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Lowes_Credit_Card.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-23T01:50:10.494Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1433886600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Check Need Help button opens up Need Help page",
+        "description": "",
+        "id": "test-need-help-functionalities;check-need-help-button-opens-up-need-help-page",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5462387100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "a user on the Home page for Need Help Features",
+            "match": {
+              "location": "step_definitions.Need_Help.NavigateToHomePageForNeedHelpFeatures()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 10796804400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user click on Need Help button",
+            "match": {
+              "location": "step_definitions.Need_Help.ClickOnNeedHelpButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1153287300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is navigated to the Need Help page",
+            "match": {
+              "location": "step_definitions.Need_Help.NavigatedToTheNeedHelpPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Need Help Functionalities",
+    "description": "",
+    "id": "test-need-help-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Need_Help.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-23T01:50:29.348Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1383317200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Check Savings button opens up Savings page",
+        "description": "",
+        "id": "test-savings-functionalities;check-savings-button-opens-up-savings-page",
+        "after": [
+          {
+            "result": {
+              "duration": 1014000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6072775500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "a user on the Home page for Savings",
+            "match": {
+              "location": "step_definitions.Savings.NavigateToHomePageForSavings()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 9649860900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "click on Savings button",
+            "match": {
+              "location": "step_definitions.Savings.ClickOnSavingsButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1323384000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is navigated to the Savings page",
+            "match": {
+              "location": "step_definitions.Savings.NavigatedToTheSavingsPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Savings Functionalities",
+    "description": "",
+    "id": "test-savings-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Savings.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-23T01:50:47.798Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2368601400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Check Search Box button opens up Search Box page",
+        "description": "",
+        "id": "test-search-box-functionalities;check-search-box-button-opens-up-search-box-page",
+        "after": [
+          {
+            "result": {
+              "duration": 1009500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5728128700,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "a user on the Home page",
+            "match": {
+              "location": "step_definitions.Search_box.NavigatedToHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8047713000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user write product name at the search box",
+            "match": {
+              "location": "step_definitions.Search_box.WriteProductCodeAtTheSearchBox()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9150115900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click on search button",
+            "match": {
+              "location": "step_definitions.Search_box.ClickOnSearchBtn()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1111968900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user is navigated to the search result page",
+            "match": {
+              "location": "step_definitions.Search_box.NavigatedToTheSearchResultPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Search Box Functionalities",
+    "description": "",
+    "id": "test-search-box-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Search_box.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-23T01:51:14.220Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1910505100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Check Cart Button opens up Shopping Cart page",
+        "description": "",
+        "id": "test-shopping-functionalities;check-cart-button-opens-up-shopping-cart-page",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6254559900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "a user on the Home page for Shopping Cart",
+            "match": {
+              "location": "step_definitions.Shopping_Cart.NavigateToHomePageForShoppingCart()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7763907900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user click on Cart button",
+            "match": {
+              "location": "step_definitions.Shopping_Cart.ClickOnCartButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 898442600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is Navigated to the Cart page",
+            "match": {
+              "location": "step_definitions.Shopping_Cart.user_is_navigated_to_the_cart_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Shopping Functionalities",
+    "description": "",
+    "id": "test-shopping-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Shopping_Cart.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-23T01:51:31.057Z",
+        "before": [
+          {
+            "result": {
+              "duration": 1327282700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Check Weekly Add button opens up Weekly Ad page",
+        "description": "",
+        "id": "test-weekly-ad-functionalities;check-weekly-add-button-opens-up-weekly-ad-page",
+        "after": [
+          {
+            "result": {
+              "duration": 1012800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step_definitions.Hooks.closeBrowser()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4764906600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "a user on the Home page for Weekly Ad Page",
+            "match": {
+              "location": "step_definitions.Weekly_Ad.NavigateToHomePageForWeeklyAd()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7856267500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user click on Weekly Ad",
+            "match": {
+              "location": "step_definitions.Weekly_Ad.ClickOnWeeklyAd()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1049664400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is navigated to the Weekly Ad",
+            "match": {
+              "location": "step_definitions.Weekly_Ad.NavigatedToTheWeeklyAdPage()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Weekly Ad Functionalities",
+    "description": "",
+    "id": "test-weekly-ad-functionalities",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Weekly_Ad.feature",
+    "tags": []
+  }
+]
