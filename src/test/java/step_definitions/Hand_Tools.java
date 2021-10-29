@@ -46,7 +46,7 @@ public class Hand_Tools {
         String Actual = driver.getTitle();
         String Expected = "Black Friday Hand Tools Deals 2021 - Lowes.com";
         Assert.assertEquals(Expected,Actual);
-        LOGGER.info("user Successfully Navigated to Hand Tools page");
+        LOGGER.info("User Successfully Navigated to Hand Tools page");
         ActOn.browser(driver).closeBrowser();
     }
 
