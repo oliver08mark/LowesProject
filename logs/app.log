@@ -1,3 +1,4 @@
-2021-10-24 13:41:05.107 [main][25111] INFO  step_definitions.Hooks - Launch Chrome Browser
-2021-10-24 13:41:19.695 [main][39699] INFO  step_definitions.Feedback - User is on the Home Page
-2021-10-24 13:41:42.475 [main][62479] INFO  step_definitions.Hooks - Close Chrome Browser
+2021-10-27 23:28:05.573 [main][18556] INFO  step_definitions.Hooks - Launch Chrome Browser
+2021-10-27 23:28:13.021 [main][26004] INFO  step_definitions.Search_box - User is on the Home Page
+2021-10-27 23:28:41.145 [main][54128] INFO  step_definitions.Search_box - User successfully see product on the search result
+2021-10-27 23:28:42.687 [main][55670] INFO  step_definitions.Hooks - Close Chrome Browser
