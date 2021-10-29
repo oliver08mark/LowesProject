@@ -14,7 +14,7 @@ import utilities.ReadConfigFiles;
 public class Search_box {
     private static final By SearchItem = By.id("search-query");
     private static final By SearchBtn = By.xpath("//*[@id='frmQuickSearch']/section/button");
-    private static final By SearchResult = By.xpath("//div/div/span[1][(text()='1110030')]");
+    private static final By SearchResult = By.xpath("//div/div/span[1][(text()='3694272')]");
 
     private static Logger LOGGER = LogManager.getLogger(Search_box.class);
     WebDriver driver=Hooks.driver;

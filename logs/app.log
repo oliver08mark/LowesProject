@@ -1,50 +1,50 @@
-2021-10-29 15:21:44.167 [main][5122] INFO  step_definitions.Hooks - Launch Chrome Browser
-2021-10-29 15:21:49.863 [main][10818] INFO  step_definitions.Deals_Of_The_Day - User is on the Home Page
-2021-10-29 15:22:00.954 [main][21909] INFO  step_definitions.Deals_Of_The_Day - User Click on Deals Of the Day
-2021-10-29 15:22:01.161 [main][22116] INFO  step_definitions.Deals_Of_The_Day - user Successfully Navigated to Deals of the day page
-2021-10-29 15:22:04.896 [main][25851] INFO  step_definitions.Hooks - Close Chrome Browser
-2021-10-29 15:22:07.411 [main][28366] INFO  step_definitions.Hooks - Launch Chrome Browser
-2021-10-29 15:22:15.203 [main][36158] INFO  step_definitions.Gift_Zone - User is on the Home Page
-2021-10-29 15:22:27.005 [main][47960] INFO  step_definitions.Gift_Zone - User Click on Gift Zone
-2021-10-29 15:22:27.324 [main][48279] INFO  step_definitions.Gift_Zone - user Successfully Navigated to Gift Ideas page
-2021-10-29 15:22:28.190 [main][49145] INFO  step_definitions.Hooks - Close Chrome Browser
-2021-10-29 15:22:29.665 [main][50620] INFO  step_definitions.Hooks - Launch Chrome Browser
-2021-10-29 15:22:34.362 [main][55317] INFO  step_definitions.Need_Help - User is on the Home Page
-2021-10-29 15:22:43.276 [main][64231] INFO  step_definitions.Need_Help - User Click on Tools Button
-2021-10-29 15:22:53.419 [main][74374] INFO  step_definitions.Need_Help - User Click on Hand Tools Button
-2021-10-29 15:22:53.479 [main][74434] INFO  step_definitions.Need_Help - User Successfully Navigated to Hand Tools page
-2021-10-29 15:22:54.649 [main][75604] INFO  step_definitions.Hooks - Close Chrome Browser
-2021-10-29 15:22:57.040 [main][77995] INFO  step_definitions.Hooks - Launch Chrome Browser
-2021-10-29 15:23:03.009 [main][83964] INFO  step_definitions.Gift_Zone - User is on the Home Page
-2021-10-29 15:23:20.682 [main][101637] INFO  step_definitions.Gift_Zone - User Click on Holiday Decorations
-2021-10-29 15:23:20.865 [main][101820] INFO  step_definitions.Gift_Zone - user Successfully Navigated to Holiday Decorations page
-2021-10-29 15:23:21.884 [main][102839] INFO  step_definitions.Hooks - Close Chrome Browser
-2021-10-29 15:23:23.359 [main][104314] INFO  step_definitions.Hooks - Launch Chrome Browser
-2021-10-29 15:23:34.971 [main][115926] INFO  step_definitions.Gift_Zone - User is on the Home Page
-2021-10-29 15:23:45.457 [main][126412] INFO  step_definitions.Gift_Zone - User Click on Lowe's Credit Card
-2021-10-29 15:23:45.591 [main][126546] INFO  step_definitions.Gift_Zone - user Successfully Navigated to Lowes Credit Card page
-2021-10-29 15:23:46.774 [main][127729] INFO  step_definitions.Hooks - Close Chrome Browser
-2021-10-29 15:23:48.134 [main][129089] INFO  step_definitions.Hooks - Launch Chrome Browser
-2021-10-29 15:23:55.182 [main][136137] INFO  step_definitions.Need_Help - User is on the Home Page
-2021-10-29 15:24:09.662 [main][150617] INFO  step_definitions.Need_Help - User Click on Need Help
-2021-10-29 15:24:09.696 [main][150651] INFO  step_definitions.Need_Help - user Successfully Navigated to Need Help page
-2021-10-29 15:24:10.957 [main][151912] INFO  step_definitions.Hooks - Close Chrome Browser
-2021-10-29 15:24:13.197 [main][154152] INFO  step_definitions.Hooks - Launch Chrome Browser
-2021-10-29 15:24:18.796 [main][159751] INFO  step_definitions.Savings - User is on the Home Page
-2021-10-29 15:24:34.889 [main][175844] INFO  step_definitions.Savings - User Click on Savings
-2021-10-29 15:24:35.004 [main][175959] INFO  step_definitions.Savings - user Successfully Navigated to Savings page
-2021-10-29 15:24:35.845 [main][176800] INFO  step_definitions.Hooks - Close Chrome Browser
-2021-10-29 15:24:37.241 [main][178196] INFO  step_definitions.Hooks - Launch Chrome Browser
-2021-10-29 15:24:43.774 [main][184729] INFO  step_definitions.Search_box - User is on the Home Page
-2021-10-29 15:24:57.505 [main][198460] INFO  step_definitions.Search_box - User successfully see product on the search result
-2021-10-29 15:24:59.721 [main][200676] INFO  step_definitions.Hooks - Close Chrome Browser
-2021-10-29 15:25:02.579 [main][203534] INFO  step_definitions.Hooks - Launch Chrome Browser
-2021-10-29 15:25:09.222 [main][210177] INFO  step_definitions.Savings - User is on the Home Page
-2021-10-29 15:25:18.739 [main][219694] INFO  step_definitions.Savings - User Click on Cart Button
-2021-10-29 15:25:18.759 [main][219714] INFO  step_definitions.Savings - user Successfully Navigated to Cart page
-2021-10-29 15:25:19.658 [main][220613] INFO  step_definitions.Hooks - Close Chrome Browser
-2021-10-29 15:25:21.102 [main][222057] INFO  step_definitions.Hooks - Launch Chrome Browser
-2021-10-29 15:25:25.126 [main][226081] INFO  step_definitions.Weekly_Ad - User is on the Home Page
-2021-10-29 15:25:35.085 [main][236040] INFO  step_definitions.Weekly_Ad - User Click on Weekly Ad
-2021-10-29 15:25:35.129 [main][236084] INFO  step_definitions.Weekly_Ad - user Successfully Navigated to Weekly Ad page
-2021-10-29 15:25:36.094 [main][237049] INFO  step_definitions.Hooks - Close Chrome Browser
+2021-10-29 18:06:04.026 [main][10705] INFO  step_definitions.Hooks - Launch Chrome Browser
+2021-10-29 18:06:12.180 [main][18859] INFO  step_definitions.Deals_Of_The_Day - User is on the Home Page
+2021-10-29 18:06:26.551 [main][33230] INFO  step_definitions.Deals_Of_The_Day - User Click on Deals Of the Day
+2021-10-29 18:06:27.046 [main][33725] INFO  step_definitions.Deals_Of_The_Day - user Successfully Navigated to Deals of the day page
+2021-10-29 18:06:28.166 [main][34845] INFO  step_definitions.Hooks - Close Chrome Browser
+2021-10-29 18:06:30.884 [main][37563] INFO  step_definitions.Hooks - Launch Chrome Browser
+2021-10-29 18:06:36.722 [main][43401] INFO  step_definitions.Gift_Zone - User is on the Home Page
+2021-10-29 18:06:50.918 [main][57597] INFO  step_definitions.Gift_Zone - User Click on Gift Zone
+2021-10-29 18:06:51.076 [main][57755] INFO  step_definitions.Gift_Zone - user Successfully Navigated to Gift Ideas page
+2021-10-29 18:06:52.416 [main][59095] INFO  step_definitions.Hooks - Close Chrome Browser
+2021-10-29 18:06:55.266 [main][61945] INFO  step_definitions.Hooks - Launch Chrome Browser
+2021-10-29 18:07:03.508 [main][70187] INFO  step_definitions.Need_Help - User is on the Home Page
+2021-10-29 18:07:20.696 [main][87375] INFO  step_definitions.Need_Help - User Click on Tools Button
+2021-10-29 18:07:35.375 [main][102054] INFO  step_definitions.Need_Help - User Click on Hand Tools Button
+2021-10-29 18:07:35.443 [main][102122] INFO  step_definitions.Need_Help - User Successfully Navigated to Hand Tools page
+2021-10-29 18:07:37.042 [main][103721] INFO  step_definitions.Hooks - Close Chrome Browser
+2021-10-29 18:07:39.584 [main][106263] INFO  step_definitions.Hooks - Launch Chrome Browser
+2021-10-29 18:07:46.855 [main][113534] INFO  step_definitions.Gift_Zone - User is on the Home Page
+2021-10-29 18:08:04.008 [main][130687] INFO  step_definitions.Gift_Zone - User Click on Holiday Decorations
+2021-10-29 18:08:04.243 [main][130922] INFO  step_definitions.Gift_Zone - user Successfully Navigated to Holiday Decorations page
+2021-10-29 18:08:05.319 [main][131998] INFO  step_definitions.Hooks - Close Chrome Browser
+2021-10-29 18:08:07.074 [main][133753] INFO  step_definitions.Hooks - Launch Chrome Browser
+2021-10-29 18:08:14.985 [main][141664] INFO  step_definitions.Gift_Zone - User is on the Home Page
+2021-10-29 18:08:24.504 [main][151183] INFO  step_definitions.Gift_Zone - User Click on Lowe's Credit Card
+2021-10-29 18:08:24.659 [main][151338] INFO  step_definitions.Gift_Zone - user Successfully Navigated to Lowes Credit Card page
+2021-10-29 18:08:26.403 [main][153082] INFO  step_definitions.Hooks - Close Chrome Browser
+2021-10-29 18:08:27.858 [main][154537] INFO  step_definitions.Hooks - Launch Chrome Browser
+2021-10-29 18:08:33.115 [main][159794] INFO  step_definitions.Need_Help - User is on the Home Page
+2021-10-29 18:08:43.089 [main][169768] INFO  step_definitions.Need_Help - User Click on Need Help
+2021-10-29 18:08:43.141 [main][169820] INFO  step_definitions.Need_Help - user Successfully Navigated to Need Help page
+2021-10-29 18:08:44.259 [main][170938] INFO  step_definitions.Hooks - Close Chrome Browser
+2021-10-29 18:08:45.933 [main][172612] INFO  step_definitions.Hooks - Launch Chrome Browser
+2021-10-29 18:08:50.450 [main][177129] INFO  step_definitions.Savings - User is on the Home Page
+2021-10-29 18:09:06.801 [main][193480] INFO  step_definitions.Savings - User Click on Savings
+2021-10-29 18:09:07.097 [main][193776] INFO  step_definitions.Savings - user Successfully Navigated to Savings page
+2021-10-29 18:09:08.148 [main][194827] INFO  step_definitions.Hooks - Close Chrome Browser
+2021-10-29 18:09:09.557 [main][196236] INFO  step_definitions.Hooks - Launch Chrome Browser
+2021-10-29 18:09:13.878 [main][200557] INFO  step_definitions.Search_box - User is on the Home Page
+2021-10-29 18:09:25.971 [main][212650] INFO  step_definitions.Search_box - User successfully see product on the search result
+2021-10-29 18:09:27.166 [main][213845] INFO  step_definitions.Hooks - Close Chrome Browser
+2021-10-29 18:09:28.615 [main][215294] INFO  step_definitions.Hooks - Launch Chrome Browser
+2021-10-29 18:09:33.751 [main][220430] INFO  step_definitions.Savings - User is on the Home Page
+2021-10-29 18:09:44.772 [main][231451] INFO  step_definitions.Savings - User Click on Cart Button
+2021-10-29 18:09:44.810 [main][231489] INFO  step_definitions.Savings - user Successfully Navigated to Cart page
+2021-10-29 18:09:45.732 [main][232411] INFO  step_definitions.Hooks - Close Chrome Browser
+2021-10-29 18:09:51.944 [main][238623] INFO  step_definitions.Hooks - Launch Chrome Browser
+2021-10-29 18:09:55.914 [main][242593] INFO  step_definitions.Weekly_Ad - User is on the Home Page
+2021-10-29 18:10:04.929 [main][251608] INFO  step_definitions.Weekly_Ad - User Click on Weekly Ad
+2021-10-29 18:10:04.966 [main][251645] INFO  step_definitions.Weekly_Ad - user Successfully Navigated to Weekly Ad page
+2021-10-29 18:10:05.840 [main][252519] INFO  step_definitions.Hooks - Close Chrome Browser
